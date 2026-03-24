@@ -23,7 +23,7 @@ using System;
 // - 예) 이동시 함수 사용
 //4.몬스터 전용 데이터,메소드
 //5.맵 클래스 만들고 코드정리
-namespace tset
+namespace test
 {
     internal class Program
     {
