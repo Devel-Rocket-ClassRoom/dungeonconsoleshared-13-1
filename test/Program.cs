@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using System;
+using System.Data;
 
 //DungeonGame 클래스디자인
 //기존에 만든 텍스트 던전게임 코드를 DungeonGame 클래스로 이동
