@@ -24,8 +24,13 @@ using System.Data;
 // - 예) 이동시 함수 사용
 //4.몬스터 전용 데이터,메소드
 //5.맵 클래스 만들고 코드정리
-namespace tset
+namespace test
 {
+
+    public class branche_test_class
+    {
+        //pull-request-test
+    }
     internal class Program
     {
         static void Main(string[] args)
