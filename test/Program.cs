@@ -80,7 +80,37 @@ namespace tset
         {
 
         }
+        public (int, int) MonsterStats()
+        {
+            switch (MonType)
+            {
+                case MonsterType.Slime:
+                    Hp = 10;
+                    Attack = 10;
+                    Name = "Slime";
+                    break;
 
+                case MonsterType.Goblin:
+                    Hp = 20;
+                    Attack = 20;
+                    Name = "Goblin";
+                    break;
+
+                case MonsterType.Orc:
+                    Hp = 30;
+                    Attack = 30;
+                    Name = "Orc";
+                    break;
+
+                case MonsterType.Dragon:
+                    Hp = 40;
+                    Attack = 40;
+                    Name = "Dragon";
+                    break;
+            }
+
+            return (Hp, Attack);
+        }
     }
 
     public class Map
