@@ -59,6 +59,11 @@ namespace tset
     public class Player : Character
     {
         public int Hp = 10;
+
+        public Player()
+        {
+
+        }
     }
 
     public class Monster : Character
