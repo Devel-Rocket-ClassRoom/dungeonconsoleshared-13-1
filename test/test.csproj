@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>tset</RootNamespace>
-    <AssemblyName>tset</AssemblyName>
+    <RootNamespace>test</RootNamespace>
+    <AssemblyName>test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
