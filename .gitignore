@@ -1,4 +1,3 @@
-﻿tset/bin
-tset/obj
-.vs
+﻿test/bin
 test/obj
+.vs
