@@ -59,7 +59,7 @@ namespace test
     public class Player : Character
     {
         public int Hp = 10;
-        public string Name;
+        public string Name; 
 
         public Player()
         {
@@ -204,12 +204,7 @@ namespace test
 
                     Console.Write("이동 명령 (w, a, s, d): ");
                     Console.Write("P는 플레이어 M은 몬스터");
-                    for (int h = 0; h < 2; h++)
-                    {
-                        Console.Write("*");
-                        Console.WriteLine("한칸 이동하였습니다");
-                    }
-
+                   
                     string cmd = Console.ReadLine();
 
                     // 이동 명령 (L, R, U, D): 
