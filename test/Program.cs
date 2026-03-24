@@ -190,7 +190,7 @@ namespace tset
                     for (int h = 0; h < 2; h++)
                     {
                         Console.Write("*");
-                        Console.WriteLine("한칸 이동하였습니다");
+                        Console.WriteLine("한 칸 이동하였습니다");
                     }
 
                     string cmd = Console.ReadLine();
@@ -232,7 +232,7 @@ namespace tset
 
                     else if (gameMap.map[player.row + dirR, player.col + dirC] == 'M')
                     {
-                        Console.WriteLine("게임종료");
+                        Console.WriteLine("게임 종료");
                         return;
                     }
                     else
