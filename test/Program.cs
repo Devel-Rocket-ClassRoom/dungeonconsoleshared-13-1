@@ -69,6 +69,13 @@ namespace tset
 
     public class Monster : Character
     {
+        public enum MonsterType
+        {
+            Slime,
+            Goblin,
+            Orc,
+            Dragon
+        }
         public Monster(int r, int c)
         {
 
