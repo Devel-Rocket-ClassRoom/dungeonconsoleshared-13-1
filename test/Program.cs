@@ -59,6 +59,7 @@ namespace tset
     public class Player : Character
     {
         public int Hp = 10;
+        public string Name;
 
         public Player()
         {
