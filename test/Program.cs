@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using System;
+using System.Data;
 
 //DungeonGame 클래스디자인
 //기존에 만든 텍스트 던전게임 코드를 DungeonGame 클래스로 이동
@@ -210,7 +211,7 @@ namespace tset
                         Console.WriteLine("한칸 이동하였습니다");
                     }
 
-                    string cmd = Console.ReadLine();
+                    char cmd = Console.ReadKey().KeyChar;
 
                     // 이동 명령 (L, R, U, D): 
 
@@ -222,23 +223,23 @@ namespace tset
 
                     switch (cmd)
                     {
-                        case "a":
-                            dirC = -1;
+                        case 'a':
+                            dirC = -1;                           
                             break;
 
-                        case "d":
+                        case 'd':
                             dirC = 1;
                             break;
 
-                        case "w":
+                        case 'w':
                             dirR = -1;
                             break;
 
-                        case "s":
+                        case 's':
                             dirR = 1;
                             break;
                     }
-
+                    Console.Clear();
 
                     //if (gameMap.map[R + dirR, C + dirC] == '#')
                     if (gameMap.IsWall(player.row + dirR, player.col + dirC))
