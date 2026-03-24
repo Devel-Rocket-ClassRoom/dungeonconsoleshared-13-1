@@ -1,0 +1,8 @@
+C:\내 프로젝트\0306\콘솔\tset\tset\bin\Debug\tset.exe.config
+C:\내 프로젝트\0306\콘솔\tset\tset\bin\Debug\tset.exe
+C:\내 프로젝트\0306\콘솔\tset\tset\bin\Debug\tset.pdb
+C:\내 프로젝트\0306\콘솔\tset\tset\obj\Debug\tset.csproj.AssemblyReference.cache
+C:\내 프로젝트\0306\콘솔\tset\tset\obj\Debug\tset.csproj.CoreCompileInputs.cache
+C:\내 프로젝트\0306\콘솔\tset\tset\obj\Debug\tset.exe
+C:\내 프로젝트\0306\콘솔\tset\tset\obj\Debug\tset.pdb
+C:\내 프로젝트\0306\콘솔\tset\tset\obj\Debug\tset.exe.config
