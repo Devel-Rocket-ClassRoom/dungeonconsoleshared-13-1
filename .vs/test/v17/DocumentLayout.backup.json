@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|solutionrelative:test\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|solutionrelative:test\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|c:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|solutionrelative:test\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\dungeongame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|solutionrelative:test\\dungeongame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3897DC0-0296-4DCE-A44E-AA33CA6A3CCE}|test\\test.csproj|solutionrelative:test\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\Program.cs",
+              "RelativeDocumentMoniker": "test\\Program.cs",
+              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\Program.cs",
+              "RelativeToolTip": "test\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:29:10.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\Monster.cs",
+              "RelativeDocumentMoniker": "test\\Monster.cs",
+              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\Monster.cs",
+              "RelativeToolTip": "test\\Monster.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:31:51.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\Player.cs",
+              "RelativeDocumentMoniker": "test\\Player.cs",
+              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\Player.cs",
+              "RelativeToolTip": "test\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:29:14.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\Map.cs",
+              "RelativeDocumentMoniker": "test\\Map.cs",
+              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\Map.cs",
+              "RelativeToolTip": "test\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:29:10.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DungeonGame.cs",
+              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\DungeonGame.cs",
+              "RelativeDocumentMoniker": "test\\DungeonGame.cs",
+              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\DungeonGame.cs",
+              "RelativeToolTip": "test\\DungeonGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:29:09.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\Character.cs",
+              "RelativeDocumentMoniker": "test\\Character.cs",
+              "ToolTip": "C:\\\uB0B4 \uD504\uB85C\uC81D\uD2B8\\\uB358\uC804\uAC8C\uC784\\dungeonconsoleshared-13-1\\test\\Character.cs",
+              "RelativeToolTip": "test\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:29:07.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
